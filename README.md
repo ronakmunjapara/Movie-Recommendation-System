@@ -2,7 +2,7 @@
 Feels like watching a movie to Enjoy & Chill, but are not sure what movie to select?
 We have a list of Top 9 Best movie recommendations based on your mood & Favourite Genres at your fingertips!
 
-LIVE URL: https://movie-recommendation-ronaksm.herokuapp.com/
+LIVE URL: [Hosted on heroku](https://movie-recommendation-ronaksm.herokuapp.com/).
 
 # Welcome to my Movie Recommendation website! 
 Here you can find the perfect movie for any occasion. Whether you're looking for a classic,a 
